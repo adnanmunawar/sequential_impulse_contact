@@ -15,3 +15,7 @@ Use the seq_impulse_num.py for a numerical solution and a plot of the rigid body
 3. https://box2d.org/files/ErinCatto_SequentialImpulses_GDC2006.pdf
 4. http://www.mft-spirit.nl/files/articles/ImpulseSolverBrief.pdf
 5. https://allenchou.net/2013/12/game-physics-constraints-sequential-impulse/
+
+# Other implementations:
+We have use this formulation for modeling contact between a snake robot and a volumetric patient model here:
+https://github.com/htp2/continuum-manip-volumetric-drilling-plugin
